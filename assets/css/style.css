@@ -288,10 +288,6 @@ header.active{
     width: 40%;
 }
 
-#about #skills #progress .bars:nth-child(7) h3{
-    width: 30%;
-}
-
 #about #education #row{
     display: flex;
     flex-wrap: wrap;
